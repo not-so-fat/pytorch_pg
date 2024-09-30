@@ -1,0 +1,8 @@
+numpy
+scipy
+scikit-learn
+jedi==0.17.2
+torch
+torchtune
+torchao
+torchvision
